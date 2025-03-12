@@ -1,5 +1,6 @@
 
-![브로셔 설명](https://github.com/user-attachments/assets/1c9ead02-8b4d-4b05-8873-e78f84a1c81d)
+![브로셔 설명](https://github.com/user-attachments/assets/edcd6b2c-61e3-4d7a-a8ff-026e62000c8b)
+
 
 
 # 프로젝트명: ZODIAC
