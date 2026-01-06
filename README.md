@@ -1,6 +1,6 @@
 
-![브로셔 설명](https://github.com/user-attachments/assets/edcd6b2c-61e3-4d7a-a8ff-026e62000c8b)
 
+<img src="https://github.com/user-attachments/assets/d7dafaf6-5d89-4fca-813a-74ddf7a9a5eb" width="720" height="400"/>
 
 
 # 프로젝트명: ZODIAC
@@ -8,8 +8,9 @@
 
 > 2024.11.25 ~ 2025.01.21
 
- 
-<img src="https://github.com/user-attachments/assets/d7dafaf6-5d89-4fca-813a-74ddf7a9a5eb" width="720" height="400"/>
+
+ ![브로셔 설명](https://github.com/user-attachments/assets/edcd6b2c-61e3-4d7a-a8ff-026e62000c8b)
+
 
 
 ## ⭐ 게임 소개
