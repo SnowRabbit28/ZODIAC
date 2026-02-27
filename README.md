@@ -15,40 +15,44 @@
 ## ⭐ 게임 소개
 
 
-- 별의 아이가 어둠에 맞서 황도 12궁의 별자리를 탐험하며 빛을 되찾는 이야기로 <br />
+- 별의 아이가 어둠에 맞서 황도 12궁의 별자리를 탐험하며 빛을 되찾는 이야기로
+  <br />
   **어드벤처**, **퍼즐** 요소들을 결합하여 재미있게 풀어낸 작품입니다.
 
 
 
-
+  <br />
 ## 📼 시연 영상
 - [ youtube ](https://www.youtube.com/watch?v=vQS3qgq4FOA)
+  <br />
 
 
-
-
+  <br />
 ## 🕹️ 게임 링크
 - [ itch.io ](https://zodiaccompany.itch.io/zodiac)
 - [ steam ](https://store.steampowered.com/app/3508740/ZODIAC/#app_reviews_hash)
+  <br />
 
 
-
-
+  <br />
 ## ⚙️ 기술스택
 - Language: C#
 - IDE: Visual Studio, Rider
 - GameEngine: Unity - 2022.3.17f1
+  <br />
 
 
 
-
-
+  <br />
+  <br />
 ## 🖥️ 주요 기능
 - Object Pooling을 이용한 다양한 사운드 관리
 - ResourceManager을 이용한 동적 생성
 - UIManager를 이용하여 다양한 팝업 관리
 - DungeonManager를 이용한 스테이지, 몬스터 스폰 관리
-
+  <br />
+  <br />
+    
 <details>
     <summary> Manager </summary>
 
