@@ -1,7 +1,4 @@
-
-
-<img src="https://github.com/user-attachments/assets/d7dafaf6-5d89-4fca-813a-74ddf7a9a5eb" width="720" height="400"/>
-
+<img width="1920" height="1080" alt="조디악" src="https://github.com/user-attachments/assets/aff01cbb-867e-43b1-9641-6b60456bac0a" />
 
 # 프로젝트명: ZODIAC
 > 내일배움 캠프 Unity 6기 최종프로젝트
@@ -9,29 +6,30 @@
 > 2024.11.25 ~ 2025.01.21
 
 
- ![브로셔 설명](https://github.com/user-attachments/assets/edcd6b2c-61e3-4d7a-a8ff-026e62000c8b)
-
+<div align=center>
+ <img width="743" height="420" alt="브로셔" src="https://github.com/user-attachments/assets/114f0412-19c3-45e0-a42e-edc0182e1091" />
+</div>
+<br />
 
 
 ## ⭐ 게임 소개
 
 
-- 별의 아이가 어둠에 맞서 황도 12궁의 별자리를 탐험하며 빛을 되찾는 이야기로 어드벤처, 퍼즐 요소들을 결합하여 재미있게 풀어낸 작품입니다.
-
+- 별의 아이가 어둠에 맞서 황도 12궁의 별자리를 탐험하며 빛을 되찾는 이야기로 <br />
+  **어드벤처**, **퍼즐** 요소들을 결합하여 재미있게 풀어낸 작품입니다.
 
 
 
 
 ## 📼 시연 영상
-[시연영상 바로가기](https://www.youtube.com/watch?v=vQS3qgq4FOA)
-
+- [ youtube ](https://www.youtube.com/watch?v=vQS3qgq4FOA)
 
 
 
 
 ## 🕹️ 게임 링크
-[게임 링크 바로가기](https://zodiaccompany.itch.io/zodiac)
-
+- [ itch.io ](https://zodiaccompany.itch.io/zodiac)
+- [ steam ](https://store.steampowered.com/app/3508740/ZODIAC/#app_reviews_hash)
 
 
 
