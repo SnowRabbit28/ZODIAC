@@ -64,81 +64,104 @@
 ## ⚙️ GameManager.cs
 > 전체적인 게임을 담당하는 매니저
 
-1. SaveManager을 통해 저장된 정보들을 보여주는 매니저
+1. SaveManager을 통해 게임의 데이터 저장 및 로드
 
-![image](https://github.com/user-attachments/assets/85f41d37-2d36-4477-9d82-c21a6d5c6299)
+<img width="740" height="311" alt="image" src="https://github.com/user-attachments/assets/e52b98d5-ede1-4a5c-8980-9fbe040a7fd8" />
 
-2. 던전 및 씬이동
 
-![image](https://github.com/user-attachments/assets/3ff42ef6-a955-46b5-9170-5296c3f61840)
+2. 씬 전환에 따른 던전의 생성과 해제를 제어
+
+<img width="745" height="160" alt="image" src="https://github.com/user-attachments/assets/8d6c61b9-3929-4c25-92ae-3d3367e934fa" />
+
 
 
 ## ⚙️ ItemManager.cs
 > Item의 이동을 주로 사용, inventory와 equipment를 하나로 묶어주는 매니저
 
-<img src="https://github.com/user-attachments/assets/b1c8207e-1be4-4ac4-99db-55a2ef5c8809" width="250" height="270"/> <img src="https://github.com/user-attachments/assets/0d975848-9cb4-4430-8b59-1f0323d5e377" width="250" height="270"/>
+<img width="462" height="328" alt="image" src="https://github.com/user-attachments/assets/b4ae38ac-2c41-4e66-ba7e-35c8162356a9" /> <img width="462" height="328" alt="image" src="https://github.com/user-attachments/assets/de7831ef-f6cb-4f50-b0c4-42040098e4d2" />
+
+
 
 ## ⚙️ ResourceManager.cs
 > Resource파일에 있는 모든 파일들을 가져와주는 매니저
 
-파일을 불러오기위해 파일의이름을 enum타입으로 설정
+파일을 불러오기위해 파일의 이름을 enum타입으로 설정
 
-<img src="https://github.com/user-attachments/assets/3b24bcd3-49d1-402e-bfae-80116539ef19" width="250" height="270"/> <img src="https://github.com/user-attachments/assets/98a4933f-c038-4579-b370-f9b634adffca" width="250" height="270"/>
+<img width="225" height="428" alt="image" src="https://github.com/user-attachments/assets/c15709bb-7d9b-4527-b5ff-23c98fa44a6a" />
 
 
 동기로 데이터를 가져오는 방식과 비동기로 데이터를 가져오는 방식 두가지로 나누어
 
-필요한 상황에 따라 데이터를 가져올 수 있도록 설계 ( 위 비동기, 밑 동기 )
+필요한 상황에 따라 데이터를 가져올 수 있도록 설계
 
-![image](https://github.com/user-attachments/assets/890c7b3f-4d87-4e3d-b7d6-53bb63aa1d11) ![image](https://github.com/user-attachments/assets/06dd063b-5420-49b5-9e66-0b33133f863c)
+< 비동기 >
+
+<img width="901" height="450" alt="image" src="https://github.com/user-attachments/assets/09eeff55-fcb0-45de-a261-1cd1a64de247" />
+
+
+< 동기 >
+
+<img width="1000" height="518" alt="image" src="https://github.com/user-attachments/assets/5f224264-2080-4369-a6c7-e2cec9b8257a" />
 
 
 
 ## ⚙️ SaveManager.cs
-> 데이터를 저장하고 불러올 수 있는 매니저, NewtonSoft를 사용
+> 데이터를 저장하고 불러올 수 있는 매니저
 
-![image](https://github.com/user-attachments/assets/b91b9e04-7198-4aff-84bd-8516e7c12ffa)
-![image](https://github.com/user-attachments/assets/2294d6ef-4517-42fa-8e36-603b83e010e2)
+NewtonSoft를 사용     
+<img width="187" height="63" alt="image" src="https://github.com/user-attachments/assets/689c0d14-bee5-4f91-a1e2-4ce4e7fac81e" />
+
+
+
+<img width="672" height="252" alt="image" src="https://github.com/user-attachments/assets/edab098f-8062-4e65-bb0a-ad77098e7768" />
 
 < 저장 >
 
-![image](https://github.com/user-attachments/assets/dd0f2aaf-509f-4261-9a1f-162cb9497455)
+<img width="609" height="403" alt="image" src="https://github.com/user-attachments/assets/fd951a8b-beda-4cc1-a51b-1be392e43102" />
 
 < 불러오기 >
 
-![image](https://github.com/user-attachments/assets/b39d6667-172e-4001-b29a-3e067baa6dfe)
+<img width="552" height="348" alt="image" src="https://github.com/user-attachments/assets/54ff66dc-2311-44f7-afab-236be9528039" />
 
 
 ## ⚙️ SoundManager.cs
 > 오브젝트 풀을 활용하여, Sound를 관리해주는 매니저
 
-![image](https://github.com/user-attachments/assets/b0c61c43-f28c-4653-8e67-28716e9c30ce)
+<img width="710" height="400" alt="image" src="https://github.com/user-attachments/assets/ac14c159-0ca7-4adc-99cb-cb860e9b9fd2" />
+
 
 paly()함수로 음악을 재생하고 음악이 끝나면 자동으로 반한되도록 설계
 
-![image](https://github.com/user-attachments/assets/4a6ab0cf-239a-40db-87e0-fda1ec7ff9e5)
+<img width="598" height="381" alt="image" src="https://github.com/user-attachments/assets/6565bd04-98cc-47d8-8076-ef81e83d73cb" />
 
-![image](https://github.com/user-attachments/assets/d9e97e92-8ef4-48fa-9053-cde1c4f331d4)
+
+< 사용법 > 
+
+
+<img width="469" height="39" alt="image" src="https://github.com/user-attachments/assets/698ff98c-8517-44d0-a170-ff1540a6a867" />
+
 
 ## ⚙️ UIManager.cs
 > UI들을 동적생성해주어 관리 할 수 있게 해주는 매니저
 
 
-T Load<T>
+1. T Load<T>
 캠버스를 동적으로 생성해주고, 캠버스 설정도 내부에서 진행
 
-![image](https://github.com/user-attachments/assets/2a256464-f91e-416a-a1c3-d9576e7dca2c)
+
+<img width="815" height="420" alt="image" src="https://github.com/user-attachments/assets/f8076f8f-e613-4c1e-bab3-32f409ea6c74" />
 
 
-T Show<T>
-리소스매니저에서 가져온 오브젝트를 가져와서 보여주게 된다.
+2. T Show<T>
+리소스매니저에서 가져온 오브젝트 시각화
 
-![image](https://github.com/user-attachments/assets/425f6634-ece8-4322-b4c1-769ec52d0cb2)
+<img width="729" height="402" alt="image" src="https://github.com/user-attachments/assets/e873b17d-6440-456e-9bd3-76f2586f29be" />
 
-싱글톤으로 만들어서 사용은 이렇게 하게 된다.
 
-![image](https://github.com/user-attachments/assets/76d5e0b9-8801-467a-9962-f558caaecb23)
-![image](https://github.com/user-attachments/assets/13c33216-2c8f-421a-b6ad-155c2aa5f6c9)
+< 싱글톤으로 만들어서 사용 >
+
+<img width="299" height="25" alt="image" src="https://github.com/user-attachments/assets/428642e4-97e2-4190-a474-143d89c99396" />
+
 </details>
 
 <details>
