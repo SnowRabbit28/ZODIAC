@@ -1,6 +1,6 @@
 <img width="1920" height="1080" alt="조디악" src="https://github.com/user-attachments/assets/aff01cbb-867e-43b1-9641-6b60456bac0a" />
 
-# 프로젝트명: ZODIAC
+# 프로젝트명:  ZODIAC
 > 내일배움 캠프 Unity 6기 최종프로젝트
 
 > 2024.11.25 ~ 2025.01.21
