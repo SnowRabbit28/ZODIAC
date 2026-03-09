@@ -52,7 +52,8 @@
 - DungeonManager를 이용한 스테이지, 몬스터 스폰 관리
   <br />
   <br />
-    
+
+## ⚙️ 기능 설명
 <details>
     <summary> Manager </summary>
 
